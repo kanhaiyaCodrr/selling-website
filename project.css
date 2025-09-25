@@ -528,9 +528,9 @@ body {
 
  
 }
-@media (min-width: 480px) {
 
- .funiro-head{
-    margin-top: 40rem;
+@media (Min-width: 768px){
+  .funiro-head{
+    margin-top: 4rem;
   }
 }
